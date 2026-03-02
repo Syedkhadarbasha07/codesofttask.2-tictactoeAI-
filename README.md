@@ -25,8 +25,3 @@ It demonstrates basic Python concepts such as:
 ## 🛠️ Technologies Used
 - Python 3
 
----
-
-### Step 2: Clone Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
